@@ -2,7 +2,7 @@
 
 A ComfyUI custom node that computes and visualizes the **Radial Average Amplitude Spectrum** of an input image — a 1D frequency-domain analysis tool useful for characterizing image texture, noise, and spatial frequency content.
 
-![example](https://raw.githubusercontent.com/your-repo/ComfyUI_RadialAvgAmpSpectrum/main/example.png)
+![example](https://github.com/bemoregt/ComfyUI_RadialAverageAmplitudeSpectrum/blob/main/ScrShot%209.png)
 
 ---
 
